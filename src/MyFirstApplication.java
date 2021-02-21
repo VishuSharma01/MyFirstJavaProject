@@ -6,3 +6,6 @@ public class MyFirstApplication {
 		System.out.println("Hello world2:: EDIT 1003");
 		for (int i = 0; i < 3; i++)
 			System.out.println("HELLO KK");
+	}
+
+}
