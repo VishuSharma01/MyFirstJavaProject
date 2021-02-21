@@ -7,7 +7,7 @@ public class MyFirstApplication {
 		for(int i=0;i<3;i++)
 			System.out.println("HELLO KK");
 
-		System.out.println("Hello world3");
+		System.out.println("Hello latest");
 
 	}
 
